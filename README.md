@@ -22,6 +22,8 @@ I love everything people, game dev, compilers, native and mobile apps, NLP, musi
 
 Lately, I've been working on a little toy called [**Cow**](https://github.com/jolexxa/cow). Cow is a terminal-based program that runs local AI models on your machine. Built in Dart with FFI bindings to [llama.cpp](https://github.com/ggml-org/llama.cpp), it supports reasoning, tool use, and a beautiful TUI. Cow is not very smart or useful yet, but we'll see how far we can take it.
 
+https://github.com/user-attachments/assets/f74631e6-035b-4a9d-b6cd-a5ee91b6399d
+
 ## 🐤 Chickensoft
 
 I created [Chickensoft](https://chickensoft.games) in 2021 as a home for my Godot + C# experiments. Over time, it has evolved into a grassroots community for Godot + C# developers and a suite of open source packages. Today, Chickensoft is a volunteer organization with a team dedicated to furthering Godot + C# development.
